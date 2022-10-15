@@ -147,26 +147,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="done lab_ex_3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2" timestamp="1665820735583">
+    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2" timestamp="1665820753019">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1665820735583" />
-    <state width="1636" height="272" key="GridCell.Tab.0.bottom" timestamp="1665820716646">
+    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1665820753019" />
+    <state x="710" y="398" key="Github.ShareDialog" timestamp="1665820890950">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1665820716646" />
-    <state width="1636" height="272" key="GridCell.Tab.0.center" timestamp="1665820716646">
+    <state x="710" y="398" key="Github.ShareDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1665820890950" />
+    <state width="1636" height="272" key="GridCell.Tab.0.bottom" timestamp="1665820839284">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1665820716646" />
-    <state width="1636" height="272" key="GridCell.Tab.0.left" timestamp="1665820716646">
+    <state width="1636" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1665820839284" />
+    <state width="1636" height="272" key="GridCell.Tab.0.center" timestamp="1665820839284">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1665820716646" />
-    <state width="1636" height="272" key="GridCell.Tab.0.right" timestamp="1665820716646">
+    <state width="1636" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1665820839284" />
+    <state width="1636" height="272" key="GridCell.Tab.0.left" timestamp="1665820839284">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1665820716646" />
+    <state width="1636" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1665820839284" />
+    <state width="1636" height="272" key="GridCell.Tab.0.right" timestamp="1665820839284">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1665820839284" />
     <state width="1636" height="336" key="GridCell.Tab.1.bottom" timestamp="1665819802403">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -187,5 +191,13 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1665814196332" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1665820929604">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1665820929604" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1665820818969">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1665820818969" />
   </component>
 </project>
