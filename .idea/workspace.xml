@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feuture/lab_ex_1" />
+        <entry key="$PROJECT_DIR$" value="feuture/lab_ex_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,10 +132,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="done lab_ex_1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2" timestamp="1665815618983">
+    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2" timestamp="1665815754546">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1665815618983" />
+    <state x="494" y="101" width="692" height="809" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1665815754546" />
     <state width="1636" height="272" key="GridCell.Tab.0.bottom" timestamp="1665815716983">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
